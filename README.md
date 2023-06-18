@@ -56,7 +56,7 @@ With the Color Changer Webpage, users can easily experiment with colors, create 
 
 Check out the live demo of the project:
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-success?style=for-the-badge&logo=firefox-browser)](https://vjqd8k.csb.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-success?style=for-the-badge&logo=firefox-browser)](https://rohit054.github.io/Color-Changer-Webpage-Using-HTML-CSS-And-JS/)
 
 Click on the icon above to access the live demo and experience the project in action.
 
