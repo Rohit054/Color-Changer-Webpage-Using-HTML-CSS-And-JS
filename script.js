@@ -51,5 +51,6 @@ for (var button of buttons) {
       coloText.classList.remove("darkMode");
       document.querySelector(".btn.blue").click();
     }
+    
   });
 }
