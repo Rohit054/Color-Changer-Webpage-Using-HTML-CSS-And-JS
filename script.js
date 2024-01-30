@@ -2,7 +2,6 @@
 // #  Coder: Rohit Yadav
 
 // Js code to make color box enable or disable
-
 let colorIcons = document.querySelector(".color-icon"),
   icons = document.querySelector(".color-icon .icons");
 
